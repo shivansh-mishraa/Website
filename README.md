@@ -1,13 +1,13 @@
-# <p align="center">Saksham's Portfalio<p>
+# <p align="center">Shivansh Mishra's Portfolio<p>
 
 ```py
 Fork this and add something new here and make pull request
 ```
 
 ```py 
-           Copyright 2021 Saksham Shekher
+           Copyright 2021 Shivansh Mishra
            
-[+] - Copying this site without giving star is crime   
+[+] - Copying this site without giving star & following profile is heartbreaking   
 [+] - Follow us and enjoy all contents here 
 ```
         
@@ -17,7 +17,3 @@ Fork this and add something new here and make pull request
 2. Rename it to username.github.io ( write your GitHub username )
 3. Go to Settings -> Pages -> Deploy
 4. To get custom domain name just Go to freenom.com
-
-# Request
-
-Please 🙏 Fork this repo and give star 🌟 
